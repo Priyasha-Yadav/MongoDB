@@ -1,4 +1,4 @@
-# MongoDB College Assignments
+# MongoDB Assignments
 
 This repository contains my **college assignments and practice tasks on MongoDB**.  
 It includes workbook files, query exercises, and solutions that cover fundamental to intermediate NoSQL concepts.
